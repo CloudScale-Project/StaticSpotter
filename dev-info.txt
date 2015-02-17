@@ -1,0 +1,2 @@
+# Exported from reclipse-emf pfoject on google-code : https://code.google.com/p/reclipse-emf
+svn export http://reclipse-emf.googlecode.com/svn/trunk/ plugins
